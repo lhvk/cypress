@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "cypress school testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lhvk",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
